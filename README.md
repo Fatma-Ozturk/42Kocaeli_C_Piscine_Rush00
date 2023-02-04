@@ -4,4 +4,4 @@ faozturk, ebilici, mkucukku
 
 Display a rectangle on screen.
 
-<img width="77" alt="Screen Shot 2023-02-04 at 12 57 11" src="https://user-images.githubusercontent.com/93829110/216760921-8cb1a905-4722-4758-b81a-810892ea4726.png">
+<img width="248" alt="Screen Shot 2023-02-04 at 12 57 23" src="https://user-images.githubusercontent.com/93829110/216760954-4b5ce5eb-808f-4bc8-af8e-9678069c9da9.png">
